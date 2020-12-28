@@ -40,7 +40,7 @@
 
 ![Santosh's github stats](https://github-readme-stats.vercel.app/api?username=San0330&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San0330&layout=compact&theme=radical&count_private=true&exclude_repo=Project_college_1.0,PHP-backups,Android_training_class,Java)](https://github.com/San0330/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San0330&layout=compact&theme=radical&count_private=true&exclude_repo=Project_college_1.0,PHP-backups,Android_training_class,Java,C-programs)](https://github.com/San0330/)
 
 [website]: https://san0330.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/santosh-neupane-216a83169/
