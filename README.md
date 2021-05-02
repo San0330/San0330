@@ -4,8 +4,8 @@
 
 ## I'm a Developer and Student !!
 
-- 🔭 I just launched my [website][website]!
-- 🌱 I’m currently learning flutter
+- 🔭 I just launched my [website][website]
+- 🌱 I’m currently learning Flutter & NextJS
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
