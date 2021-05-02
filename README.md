@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=San0330&label=Views&color=blue&style=plastic" alt="San0330" /> </p>
 
-### Hi there, I'm [Santosh][website] 👋
+### Hi there,👋 Welcome to my github page.
 
 ## I'm a Developer and Student !!
 
-- 🔭 I just launched my website!
+- 🔭 I just launched my [website][website]!
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
