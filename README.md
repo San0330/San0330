@@ -4,14 +4,12 @@
 
 ## I'm a Developer and Student !!
 
-- 🔭 I just launched my [website][website]
 - 🌱 I’m currently learning Flutter & NextJS
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="facebook logo" width="25px" src="./svgs/www.svg" />][website]
 [<img align="left" alt="facebook logo" width="25px" src="./svgs/facebook.svg" />][facebook]
 [<img align="left" alt="linkedIn logo" width="25px" src="./svgs/linkedin.svg" />][linkedin]
 <br />
@@ -40,5 +38,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San0330&layout=compact&theme=radical&count_private=true&exclude_repo=Project_college_1.0,PHP-backups,Android_training_class,Java,C-programs)](https://github.com/San0330/)
 
 [facebook]: https://www.facebook.com/santosh.0330/
-[website]: https://san0330.github.io/portfolio/
 [linkedin]: https://www.linkedin.com/in/santosh-neupane-216a83169/
