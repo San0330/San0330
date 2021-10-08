@@ -4,6 +4,7 @@
 
 ## I'm a Developer and Student !!
 
+- 🔭 My personal [website][website]
 - 🌱 I’m currently learning Flutter & NextJS
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -39,3 +40,4 @@
 
 [facebook]: https://www.facebook.com/santosh.0330/
 [linkedin]: https://www.linkedin.com/in/santosh-neupane-216a83169/
+[website]: https://san0330.github.io/portfolio/
