@@ -4,7 +4,6 @@
 
 ## I'm a Developer and Student !!
 
-- 🔭 My personal [website][website]
 - 🌱 I’m currently learning Flutter & NextJS
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
