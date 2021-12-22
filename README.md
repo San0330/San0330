@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=San0330&label=Views&color=blue&style=plastic" alt="San0330" /> </p>
-
 ### Hi there,👋 Welcome to my github page.
 
 ## I'm a Developer and Student !!
