@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter & NextJS
 - 👯 I’m looking to help & collaborate with others
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
