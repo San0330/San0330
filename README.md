@@ -1,6 +1,6 @@
 ### Hi there,👋 Welcome to my github page.
 
-## I'm a Developer and Student !!
+## I'm a web/mobile Developer !!
 
 - 🌱 I’m currently learning Flutter & NextJS
 - 👯 I’m looking to help & collaborate with others
