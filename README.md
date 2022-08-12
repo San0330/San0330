@@ -2,7 +2,7 @@
 
 ## I'm a web/mobile Developer !!
 
-- 🌱 I’m currently learning Flutter & NextJS
+- 🌱 I’m currently learning NextJS & Laravel
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
