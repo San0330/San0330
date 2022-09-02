@@ -1,7 +1,5 @@
 ### Hi there,👋 Welcome to my github page.
 
-## I'm a web/mobile Developer !!
-
 - 🌱 I’m currently learning NestJS, ReactJS & Linux
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2022 Goals: Contribute more to Open Source projects
