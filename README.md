@@ -26,7 +26,7 @@
 
 <br />
 <br />
-https://github-readme-stats.zohan.tech
+
 ![Santosh's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=San0330&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=San0330&layout=compact&theme=radical&count_private=true)](https://github.com/San0330/)
