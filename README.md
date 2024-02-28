@@ -1,6 +1,6 @@
 ### Hi there,👋 Welcome to my github page.
 
-- 🌱 I’m currently learning NestJS, ReactJS & Linux
+- 🌱 I’m currently learning Web Development & NLP
 - 👯 I’m looking to help & collaborate with others
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
