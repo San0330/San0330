@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Development & NLP
 - 👯 I’m looking to help & collaborate with others
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
