@@ -8,6 +8,7 @@
 
 [<img align="left" alt="facebook logo" width="25px" src="./svgs/facebook.svg" />][facebook]
 [<img align="left" alt="linkedIn logo" width="25px" src="./svgs/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedIn logo" width="25px" src="./svgs/whatsapp.svg" />][whatsapp]
 <br />
 <br />
 
