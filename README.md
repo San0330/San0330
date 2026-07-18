@@ -18,3 +18,4 @@
 [facebook]: https://www.facebook.com/santosh.0330/
 [linkedin]: https://www.linkedin.com/in/santosh-neupane-216a83169/
 [website]: https://san0330.github.io/portfolio/
+[whatsapp]: https://wa.me/9779840042253
